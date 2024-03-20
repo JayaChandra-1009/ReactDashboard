@@ -1,0 +1,27 @@
+.Container{
+  display: flex;
+  flex-direction: row;
+}
+.Header{
+  display: flex;
+  justify-content: space-between;
+}
+.Headercontainer{
+  margin: 20px;
+  width: 100%;
+
+}
+.tablehead thead tr th{
+  width: 100px;
+
+}
+.tabledetails tbody tr td{
+  width: 210px;
+}
+.customerdetails{
+  width: 80%;
+  margin-left: 100px;
+}
+.search{
+  margin: 0;
+}

@@ -1,0 +1,11 @@
+.Detailslevel1{
+  display: flex;
+  margin: 20px;
+}
+.Detailscontainer{
+  display: flex;
+  justify-content: space-evenly;
+}
+.Detailslevel2{
+  margin: 10px;
+}
