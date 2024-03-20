@@ -6,7 +6,7 @@ const Header = () => {
       <div className="container ">
         <div className="Header">
           <h3>
-            Hello Gudu jaya Chandra
+            Hello Gudi jaya Chandra
             <IoMdHand style={{ color: "yellow" }} />
             !!
           </h3>
